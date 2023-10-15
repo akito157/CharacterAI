@@ -1,0 +1,32 @@
+[data-testid="stSidebar"] {
+    display: none;
+}
+
+[data-testid="stHeader"] {
+    display: none;
+}
+
+.image_container {
+  position: fixed;         /* 位置を固定 */
+  top: 0%;
+  right: 0%;
+  width: 50%;
+  height: 100%;
+  /* background-color: rgba(255, 255, 255, 0.7);  */
+  background-color: #f99129;
+  padding: 0% 0% 0% 0%;
+}
+
+
+.dialogue_container {
+  position: fixed;         /* 位置を固定 */
+  top: 27%;
+  right: 2%;
+  width: 25%;
+  height: 50%;
+  font-size: 1vmax;
+  /* background-color: rgba(255, 255, 255, 0.7);  */
+  background-color: white;
+  padding: 0% 0% 0% 0%;
+}
+
